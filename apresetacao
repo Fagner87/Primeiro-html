@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+
+<body style="background-color:powderblue;background-image: url('https://www.ciadopedal.com.br/blog/upload/2012/09/equilibrio-bicicleta.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+')">
+
+<i><h1 style="border: 2px solid Tomato;background-color:Orange;text-align:center;">Fagner Henrique Silvestre de Santana </h1></i>
+
+<p><h1 style="border: 2px solid Tomato;background-color:LightGray;text-align:center;">Vivendo <sub> em </sub> <sup> equilíbrio </sup>!<h1></p>
+
+<i><p><h4>Apresentação do Aluno:<h4></p></i>
+
+
+<style>
+table, th, td {border:2px solid tomato;border-radius: 10px}
+</style>
+<body>
+<table style="text-align:left;width:70%;background-color: LightGray">
+
+  <tr> 
+    <th>Curso</th>
+    <td>ADS</td>
+     </tr>
+  <tr>
+    <th>Período</th>
+    <td>1º</td>
+     </tr>
+  <tr>
+    <th>Nível</th>
+    <td>Iniciante</td>
+     </tr>
+  <tr>
+    <th>Possue computador</th>
+    <td>Sim</td>
+     </tr>
+  <tr>
+    <th>Idade</th>
+    <td>34</td>
+     </tr>
+  <tr>
+    <th>Cidade</th>
+    <td>Camaragibe</td>
+     </tr>
+    
+     
+</table>
+
+
+ 
+
+
+
+</body>
+</html>
